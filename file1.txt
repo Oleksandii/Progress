@@ -1,1 +1,9 @@
+<<<<<<< HEAD
 Version 3
+=======
+<<<<<<< HEAD
+Hello
+=======
+Version 3
+>>>>>>> 6a1a496 (DEL)
+>>>>>>> eb169ab6b2dfcbe7a52eafe4428ced5e7478d15e
