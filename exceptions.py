@@ -41,3 +41,13 @@ try:
     
 except ValueError:
     print('It is not a number')
+
+###########
+try:
+    x = int(input('Write a number '))   # same 3 last 
+    
+except ValueError:
+    pass
+else:
+    return x
+    
