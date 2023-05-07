@@ -15,7 +15,7 @@ print(json.dumps(response.json(),indent = 2))
 
 
 
-'''
+
 ####################
 print(cowsay.cow('SSSSS'))
 print(cowsay.dragon('sssss'))
@@ -48,4 +48,3 @@ random.shuffle(cards)
 print(cards)
 print(number)
 print(coin)
-'''
