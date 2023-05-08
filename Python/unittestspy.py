@@ -1,7 +1,7 @@
 import pytest
 from unittests import square , hello
 
-
+############ top method with pytest for now
 def test_hello():
     assert hello('David')=='Hello David'
 
@@ -21,7 +21,7 @@ def test_str():
 
 
 
-'''
+
 ############ pytest retriew only 1 problem (running by pytest <name of file> in dirictory)
 def testbypytest():
     assert square(8)== 64
@@ -43,4 +43,3 @@ def test():
         assert square(10) == 100
     except AssertionError:
         print('Square function working not properly 10*10 !=100')
-'''
